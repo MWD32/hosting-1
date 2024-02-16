@@ -1,0 +1,14 @@
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+.login-container h2 {
+  text-align: center;
+}
+.login-container form {
+  margin-top: 20px;
+}
